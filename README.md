@@ -6,9 +6,9 @@ This notebook analyses by means of a multisector Schumpeterian growth model the 
 
 Note: the [HTML](https://github.com/PhilUnver/assignments/blob/master/HTML%20code.ipynb) we wrote to refer to sections within the notebook is hidden and not working properly on Github.
 
-[Assignment Applied Economic Analysis in .ipynb](https://github.com/PhilUnver/assignments/blob/master/Applied%20Economic%20Analysis%201%20Assignment%20Schumpeterian%20Model.ipynb)
+[Assignment Applied Economic Analysis in .ipynb](https://github.com/PhilUnver/assignments/blob/master/Applied%20Economic%20Analysis%201%20Assignment%20Schumpeterian%20Model(6).ipynb)
 
-[Assignment Applied Economic Analysis, in .HTML](https://github.com/PhilUnver/assignments/blob/master/Applied%20Economic%20Analysis%201%20Assignment%20Schumpeterian%20Model.html)
+[Assignment Applied Economic Analysis, in .HTML](https://github.com/PhilUnver/assignments/blob/master/Applied%20Economic%20Analysis%201%20Assignment%20Schumpeterian%20Model(5).html)
 
 [Repository of the assignment at Jacobs007's page](https://github.com/Jacobs007/assignment)
 
