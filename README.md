@@ -8,7 +8,7 @@ Note: the [HTML](https://github.com/PhilUnver/assignments/blob/master/HTML%20cod
 
 [Assignment Applied Economic Analysis in .ipynb](https://github.com/PhilUnver/assignments/blob/master/Applied%20Economic%20Analysis%201%20Assignment%20Schumpeterian%20Model(6).ipynb)
 
-[Assignment Applied Economic Analysis, in .HTML](https://github.com/PhilUnver/assignments/blob/master/Applied%20Economic%20Analysis%201%20Assignment%20Schumpeterian%20Model(5).html)
+[Assignment Applied Economic Analysis in .HTML](https://github.com/PhilUnver/assignments/blob/master/Applied%20Economic%20Analysis%201%20Assignment%20Schumpeterian%20Model(5).html)
 
 [Repository of the assignment at Jacobs007's page](https://github.com/Jacobs007/assignment)
 
